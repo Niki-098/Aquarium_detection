@@ -1,1 +1,2 @@
 # Aquarium_detection
+The objective of this project is to detect objects, specifically "fish" in an aquarium setting, using a YOLOv8 model. The model is trained on a custom aquarium dataset, allowing it to identify and classify relevant objects within frames of a test video or image. This project demonstrates an automated approach to object detection, with potential applications in wildlife monitoring, underwater research, and real-time surveillance.
